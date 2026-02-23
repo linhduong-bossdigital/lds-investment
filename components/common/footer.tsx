@@ -10,7 +10,7 @@ export default function Footer() {
   ];
 
   return (
-    <footer className="grid grid-cols-1 xl:grid-cols-2 px-[20px] py-[40px] lg:px-[80px] lg:py-[80px] gap-[30px] lg:gap-[40px]">
+    <footer className="bg-white grid grid-cols-1 xl:grid-cols-2 px-[20px] py-[40px] lg:px-[80px] lg:py-[80px] gap-[30px] lg:gap-[40px]">
       <div className="flex flex-row items-start gap-[30px] lg:gap-[60px]">
         <img
           src="/images/logo-black.png"

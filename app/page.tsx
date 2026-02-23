@@ -12,11 +12,9 @@ import Footer from "@/components/common/footer";
 export default function Home() {
   return (
     <div className="bg-white">
-      <Header />
       <Banner />
       <Information />
       <Partner />
-      <Footer />
     </div>
   );
 }
